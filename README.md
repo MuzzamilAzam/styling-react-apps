@@ -1,6 +1,6 @@
 ## React Styling Practice / A todo app
 
-##### Click on the [Link](https://dazzling-shannon-7d57a0.netlify.app/) to open the app.
+##### Click on the [Link](https://muzzamil-react-todo.netlify.app/) to open the app.
 
 
 
